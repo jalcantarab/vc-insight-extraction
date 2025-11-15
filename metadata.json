@@ -1,0 +1,5 @@
+{
+  "name": "Insight Mapping Tool",
+  "description": "A prototype web application for product managers to manage documents, generate assets, and map insights from transcripts to OKRs. This tool helps streamline the process of turning conversation transcripts into actionable product work.",
+  "requestFramePermissions": []
+}
